@@ -47,7 +47,7 @@ echo ""
 
 # installing megasync
 echo "installing megaSync"
-cd Download || exit
+cd ~/Download || exit
 mkdir App
 cd App || exit
 wget https://mega.nz/linux/MEGAsync/xUbuntu_20.04/amd64/megacmd-xUbuntu_20.04_amd64.deb
