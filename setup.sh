@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 # first initial updates and upgrades
-echo "Updating your repos..."
-sudo apt update && sudo apt upgrade -y
+echo "Updating your repos and installing basic requirements"
+sudo apt update && sudo apt upgrade -y && sudo apt install -y curl apt-transport-https git
 echo ""
 echo "update completed"
 # installing the programming languages
