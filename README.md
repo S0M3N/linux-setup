@@ -21,3 +21,8 @@ Just copy and paste the code below and done
 and done you are ready to go with your linux for programming.
 
 Don't for get to get your desired extension for VS Code to run your code for desirably.
+
+## License
+
+[MIT](https://github.com/S0M3N/linux-setup/blob/master/LICENSE)
+
