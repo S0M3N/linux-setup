@@ -22,6 +22,8 @@ and done you are ready to go with your linux for programming.
 
 Don't forget to get your desired extension for VS Code to run your code for desirably.
 
+Soon you will get a setup file for other distributions too and I will also modify the debian one time to time when required.
+
 ## License
 
 [MIT](https://github.com/S0M3N/linux-setup/blob/master/LICENSE)
