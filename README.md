@@ -20,7 +20,7 @@ Just copy and paste the code below and done
 
 and done you are ready to go with your linux for programming.
 
-Don't for get to get your desired extension for VS Code to run your code for desirably.
+Don't forget to get your desired extension for VS Code to run your code for desirably.
 
 ## License
 
