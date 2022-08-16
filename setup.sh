@@ -1,13 +1,13 @@
 #!/usr/bin/bash
 # first initial updates and upgrades
 echo "Updating your repos and installing basic requirements"
-sudo apt update && sudo apt upgrade -y && sudo apt install -y curl apt-transport-https git
+sudo apt update && sudo apt upgrade -y && sudo apt install -y curl apt-transport-https git tlp vlc gimp neofetch wget gparted 
 echo ""
-echo "update completed"
+echo "update and basic installs completed"
 # installing the programming languages
 echo "" 
 echo "installing the language packages"
-sudo apt install python2 python3 python3-pip gcc gpp default-jdk ruby 
+sudo apt install python2 python3 python3-pip gcc gpp default-jdk 
 
 echo ""
 echo "language setup done"
