@@ -29,7 +29,7 @@ We support open source do you. With linux the user have power not the organisati
 
 You can also download a .zip or a .tar file from the following link which leds you to the releases of the project
 
-[Releases](https://github.com/S0M3N/linux-setup/releases/tag/linux-setup)
+[Releases](https://github.com/S0M3N/linux-setup/releases)
 
 If any bug or any issue is faced during the **Installation** process let me know, you can just mail me the issue at **thesomen123@gmail.com** or raise the issue in my repo of the same project.
 
