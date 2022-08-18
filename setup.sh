@@ -1,13 +1,19 @@
 #!/usr/bin/bash
 # first initial updates and upgrades
-echo "Updating your repos and installing basic requirements"
-sudo apt update && sudo apt upgrade -y && sudo apt install -y curl apt-transport-https git tlp vlc gimp neofetch wget gparted 
+echo "Updating your repos"
+sudo apt update && sudo apt upgrade -y
 echo ""
-echo "update and basic installs completed"
+echo "update completed"
+
+# installing pre requirements
+echo "installing basic requirements"
+sudo apt install -y curl wget git tlp vlc gimp neofetch wget gparted bpytop gnome-disk-utility
+echo "installation successful"
+echo " "
 # installing the programming languages
 echo "" 
 echo "installing the language packages"
-sudo apt install python2 python3 python3-pip gcc gpp default-jdk 
+sudo apt install python2 python3 python3-pip gcc gpp default-jdk ubuntu-restricted-extras preload gnome-tweaks 
 
 echo ""
 echo "language setup done"
@@ -55,3 +61,12 @@ sudo apt install ./megacmd*.deb
 cd || exit
 echo ""
 echo "megaSync installed successfully"
+
+echo "_____________________________________"
+echo "Deleting and clearing unwanted stuffs"
+sudo apt autoremove && sudo apt autoclean
+echo "_____________________________________"
+echo "Yoho! Done"
+echo "Now linux is yours"
+echo "Dont forget to star my repo and support opensource where you can."
+clear
