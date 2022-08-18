@@ -7,7 +7,7 @@ Basically it installs Python2 and 3, Java, C/C++ compiler, important python modu
 It also install Edge browser for browsing and megaSync for cloud works.
 
 # Working
-Just copy and paste the code below and done
+Just copy and paste the command below in terminal and done...
 
 ```bash
   sudo apt install git
