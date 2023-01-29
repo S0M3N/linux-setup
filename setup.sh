@@ -69,4 +69,5 @@ echo "_____________________________________"
 echo "Yoho! Done"
 echo "Now linux is yours"
 echo "Dont forget to star my repo and support opensource where you can."
+sleep 3
 clear
