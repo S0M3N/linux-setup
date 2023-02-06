@@ -26,7 +26,16 @@ Soon you will get a setup file for other distributions too and I will also modif
 
 We support open source do you. With linux the user have power not the organisation.
 
-## License
+# Releases
 
-[MIT](https://github.com/S0M3N/linux-setup/blob/master/LICENSE)
+You can also download a .zip or a .tar file from the following link which leds you to the releases of the project
 
+[Releases](https://github.com/S0M3N/linux-setup/releases)
+
+If any bug or any issue is faced during the **Installation** process let me know, you can just mail me the issue at **thesomen123@gmail.com** or raise the issue in my repo of the same project.
+
+I would be happy to help you.
+
+# Editing my Repo
+
+My project is under [MIT License](https://github.com/S0M3N/linux-setup/blob/master/LICENSE). So, you can just make any changes in the repos just don't violet any License Rules.
